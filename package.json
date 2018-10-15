@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build":"",
+    "build":"echo 'build'",
     "start": "node ./Server/bin/www --db mongodb://47.97.217.240:31707/DOClever --port 80"
   },
   "dependencies": {
